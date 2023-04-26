@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/startmenu.unity
+    guid: ac13618ee4125da4ba697293c5816a67
+  - enabled: 1
+    path: Assets/newGame.unity
+    guid: aef6517f94ce42c40b8481e6ba4fa709
+  - enabled: 1
+    path: Assets/Poziom1.unity
+    guid: cb89be4488f19f043ad40f255e758a4b
+  - enabled: 1
+    path: Assets/endgame.unity
+    guid: 5eae48bc8eafbb0468f951caf3e91201

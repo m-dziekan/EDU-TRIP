@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Platformer — Edukacja", "2D Platformer — Edukacja.csproj", "{9CF4F8FC-0EBE-5D98-8712-EB6567AE58BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Platformer — Edukacja.Editor", "2D Platformer — Edukacja.Editor.csproj", "{5A52B41D-8689-D1D3-DD56-02F5FE5E7B68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF4F8FC-0EBE-5D98-8712-EB6567AE58BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF4F8FC-0EBE-5D98-8712-EB6567AE58BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF4F8FC-0EBE-5D98-8712-EB6567AE58BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF4F8FC-0EBE-5D98-8712-EB6567AE58BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A52B41D-8689-D1D3-DD56-02F5FE5E7B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A52B41D-8689-D1D3-DD56-02F5FE5E7B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A52B41D-8689-D1D3-DD56-02F5FE5E7B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A52B41D-8689-D1D3-DD56-02F5FE5E7B68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
